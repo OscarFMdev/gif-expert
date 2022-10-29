@@ -13,7 +13,6 @@ export const AddCategory = ({onNewCategory}) => {
     e.preventDefault();
     const newInputValue = inputValue.trim();
     if (newInputValue.length <= 1) return;
-    // setCategories((categories) => [inputValue, ...categories]);
     onNewCategory(newInputValue);
     setInputValue('');
   }
