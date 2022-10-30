@@ -1,6 +1,3 @@
-# Live demo
-[Live Demo Link](https://oscarfmdev.github.io/gif-expert/build)
-
 
 # Getting Started with Create React App
 
