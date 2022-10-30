@@ -46,6 +46,7 @@ p {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+  height: 100%;
 }
 
 .card {
