@@ -1,4 +1,3 @@
-
 # Project Name
 
 This project lets the user search GIFs using an API and React.
@@ -17,18 +16,6 @@ This project lets the user search GIFs using an API and React.
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
@@ -53,9 +40,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to [GIPHY API](https://developers.giphy.com/) for letting me use GIFs for my project.
 
 ## 📝 License
 
